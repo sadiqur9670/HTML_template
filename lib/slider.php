@@ -1,5 +1,4 @@
 
-
 <section id="aa-slider">
     <div class="aa-slider-area">
       <div id="sequence" class="seq">

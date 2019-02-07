@@ -51,15 +51,15 @@
                   <div class="aa-footer-widget">
                     <h3>Contact Us</h3>
                     <address>
-                      <p> 25 Astor Pl, NY 10003, USA</p>
-                      <p><span class="fa fa-phone"></span>+1 212-982-4589</p>
-                      <p><span class="fa fa-envelope"></span>dailyshop@gmail.com</p>
+                      <p> Mirpur2, Dhaka, Bangladesh</p>
+                      <p><span class="fa fa-phone"></span>+88 01971-709670</p>
+                      <p><span class="fa fa-envelope"></span>srrifat9670@gmail.com</p>
                     </address>
                     <div class="aa-footer-social">
-                      <a href="#"><span class="fa fa-facebook"></span></a>
-                      <a href="#"><span class="fa fa-twitter"></span></a>
-                      <a href="#"><span class="fa fa-google-plus"></span></a>
-                      <a href="#"><span class="fa fa-youtube"></span></a>
+                      <a href="https://www.facebook.com/sadiqur9670"><span class="fa fa-facebook"></span></a>
+                      <a href="https://twitter.com/Sadiqurrahman70"><span class="fa fa-twitter"></span></a>
+                      <a href="https://plus.google.com/u/0/+SadiqurRahmanRifat"><span class="fa fa-google-plus"></span></a>
+                      <a href="https://www.youtube.com/channel/UCW3IYgc_uju0e4PolHpEeKQ?view_as=subscriber"><span class="fa fa-youtube"></span></a>
                     </div>
                   </div>
                 </div>
@@ -76,7 +76,7 @@
         <div class="row">
         <div class="col-md-12">
           <div class="aa-footer-bottom-area">
-            <p>Designed by <a href="http://www.markups.io/">MarkUps.io</a></p>
+            <p>CEO: <a href="http://www.markups.io/">Sadiqur Rahman Rifat</a></p>
             <div class="aa-footer-payment">
               <span class="fa fa-cc-mastercard"></span>
               <span class="fa fa-cc-visa"></span>

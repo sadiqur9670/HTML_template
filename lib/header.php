@@ -106,7 +106,7 @@
               </div>
               <!-- / header top left -->
               <div class="aa-header-top-right">
-                <ul class="aa-head-top-nav-right ">
+                <ul class="aa-head-top-nav-right">
                   <li><a href="account.php">My Account</a></li>
                   <li class="hidden-xs"><a href="wishlist.php">Wishlist</a></li>
                   <li class="hidden-xs"><a href="cart.php">My Cart</a></li>
